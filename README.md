@@ -2,4 +2,4 @@
 ### Desenvolvido por:
 - Gabriel Yuto 
 - Gabriel Fernandes
-- Fernando Schronder
+- Fernando Schroder
